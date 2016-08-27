@@ -12,6 +12,7 @@
 	<array>
 		<string>pyx</string>
 		<string>pxi</string>
+		<string>pxd</string>
 	</array>
 	<key>firstLineMatch</key>
 	<string>^#!/.*\bcython\b</string>
