@@ -1586,7 +1586,7 @@
 			<array>
 				<dict>
 					<key>include</key>
-					<string>source.regexp.cython</string>
+					<string>source.regexp.python</string>
 				</dict>
 			</array>
 		</dict>
