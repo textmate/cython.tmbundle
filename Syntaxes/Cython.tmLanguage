@@ -57,13 +57,13 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(?i:(0x\h*)L)</string>
+			<string>\b(?i:(0x[0-9A-Fa-f]*)L)</string>
 			<key>name</key>
 			<string>constant.numeric.integer.long.hexadecimal.cython</string>
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(?i:(0x\h*))</string>
+			<string>\b(?i:(0x[0-9A-Fa-f]*))</string>
 			<key>name</key>
 			<string>constant.numeric.integer.hexadecimal.cython</string>
 		</dict>
